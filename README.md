@@ -1,6 +1,5 @@
 
-<div align="center"><h1>Hi! Eu sou Eduardo!</h1></div>
-<hr>
+<h1>Hi! Eu sou e Eduardo!</h1>
 <div align="center" display="flex">
   <a href="https://github.com/Duzoka">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duzoka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
